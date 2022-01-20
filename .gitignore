@@ -1,5 +1,7 @@
 .DS_Store
+# 不会上传node的包
 node_modules
+# 生成的上线部署的文件
 /dist
 
 
